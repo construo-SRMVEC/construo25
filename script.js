@@ -159,42 +159,42 @@ if (homeLink) {
 
 const technicalSlides = [
   {
-    pic: "https://storage.googleapis.com/a1aa/image/tYbMAlIWcnb1YUYSXQjSKx99PwOXyheOdGPE6JxSJWo.jpg",
+    pic: "images/2000_67a7946532f85.png",
     quote: "“Paper Presentation”",
     author: "Joe Smith: Fjcgnvhjbvgg",
   },
   {
-    pic: "https://placehold.co/200x200",
+    pic: "images/2000_67a7946532f85.png",
     quote: "“Technical Event 2”",
     author: "Jane Doe: Example",
   },
   {
-    pic: "https://placehold.co/200x200",
+    pic: "images/2000_67a7946532f85.png",
     quote: "“Technical Event 3”",
     author: "John Doe: Example",
   },
   {
-    pic: "https://placehold.co/200x200",
+    pic: "images/2000_67a7946532f85.png",
     quote: "“Technical Event 4”",
     author: "Alice Doe: Example",
   },
   {
-    pic: "https://placehold.co/200x200",
+    pic: "images/2000_67a7946532f85.png",
     quote: "“Technical Event 5”",
     author: "Bob Doe: Example",
   },
   {
-    pic: "https://placehold.co/200x200",
+    pic: "images/2000_67a7946532f85.png",
     quote: "“Technical Event 6”",
     author: "Charlie Doe: Example",
   },
   {
-    pic: "https://placehold.co/200x200",
+    pic: "images/2000_67a7946532f85.png",
     quote: "“Technical Event 7”",
     author: "David Doe: Example",
   },
   {
-    pic: "https://placehold.co/200x200",
+    pic: "images/2000_67a7946532f85.png",
     quote: "“Technical Event 8”",
     author: "Eve Doe: Example",
   },
