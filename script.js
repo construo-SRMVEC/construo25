@@ -160,44 +160,44 @@ if (homeLink) {
 const technicalSlides = [
   {
     pic: "images/2000_67a7946532f85.png",
-    quote: "“Paper Presentation”",
+    quote: "“PAPER PRESENTATION”",
     author: "Joe Smith: Fjcgnvhjbvgg",
   },
   {
     pic: "images/2000_67a7946532f85.png",
-    quote: "“Technical Event 2”",
+    quote: "“PAPER SURVEY”",
     author: "Jane Doe: Example",
   },
   {
     pic: "images/2000_67a7946532f85.png",
-    quote: "“Technical Event 3”",
+    quote: "“BRICK FUSION”",
     author: "John Doe: Example",
   },
   {
     pic: "images/2000_67a7946532f85.png",
-    quote: "“Technical Event 4”",
+    quote: "“TECH CONNECTION”",
     author: "Alice Doe: Example",
   },
   {
     pic: "images/2000_67a7946532f85.png",
-    quote: "“Technical Event 5”",
+    quote: "“BRIDGE IT”",
     author: "Bob Doe: Example",
   },
   {
     pic: "images/2000_67a7946532f85.png",
-    quote: "“Technical Event 6”",
+    quote: "“TECHNICAL QUIZ”",
     author: "Charlie Doe: Example",
   },
-  {
-    pic: "images/2000_67a7946532f85.png",
-    quote: "“Technical Event 7”",
-    author: "David Doe: Example",
-  },
-  {
-    pic: "images/2000_67a7946532f85.png",
-    quote: "“Technical Event 8”",
-    author: "Eve Doe: Example",
-  },
+  //{
+  // pic: "images/2000_67a7946532f85.png",
+  //quote: "“Technical Event 7”",
+  // author: "David Doe: Example",
+  //},
+  // {
+  // pic: "images/2000_67a7946532f85.png",
+  //quote: "“Technical Event 8”",
+  //author: "Eve Doe: Example",
+  //},
 ];
 
 const nonTechnicalSlides = [
